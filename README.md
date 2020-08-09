@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## npm install react-axios
 ## npm i react-router-dom
 ## npm install react-bootstrap bootstrap
-## npm install react-bootstrap-validtion --save
+## npm install react-bootstrap-validation --save
 
 
 ## Available Scripts
